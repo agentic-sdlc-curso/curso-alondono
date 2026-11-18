@@ -26,7 +26,7 @@
 - Revisa `git status`: no deben aparecer `.venv/`, `__pycache__/`, cachés ni archivos generados.
 
 ## Archivos
-- Puedes modificar sin pedir confirmación `app/`, `tests/` y `docs/specs/`.
+- Puedes modificar sin pedir confirmación `app/`, `tests/`, `docs/specs/`, `docs/pr/`, `docs/api.http` y `README.md`.
 - Para cualquier otro archivo (dependencias, configuración, CI, instrucciones, agentes), pide confirmación y explica el motivo.
 
 ## Dependencias
